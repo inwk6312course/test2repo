@@ -1,1 +1,2 @@
 vlan1
+vlan2
